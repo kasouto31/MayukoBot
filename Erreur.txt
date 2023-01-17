@@ -1,0 +1,4 @@
+Exception has occurred: KeyError
+'firebase-auth-json'
+  File "C:\Users\enzop\Desktop\RitsuMain.py", line 38, in <module>
+    if not os.path.exists(os.environ['firebase-auth-json']):
